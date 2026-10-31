@@ -1,0 +1,12 @@
+# Virtual environment (you already added this)
+myenv/
+
+# Environment variables / Secrets (you already added this)
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Local data / JSON caches (Optional but highly recommended)
+data/processed_post*.json
